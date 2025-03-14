@@ -1,7 +1,6 @@
 streamlit
+mysql-connector-python
 praw
 vaderSentiment
-mysql-connector-python
 matplotlib
 wordcloud
-pandas
