@@ -1,0 +1,7 @@
+streamlit
+praw
+vaderSentiment
+mysql-connector-python
+matplotlib
+wordcloud
+pandas
