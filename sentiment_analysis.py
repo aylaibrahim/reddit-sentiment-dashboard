@@ -22,7 +22,7 @@ def fetch_and_store_posts(username, limit=100):
         for text in all_data:
             insert_data(username, text)
 
-        # debugging print(f"Fetched and stored {len(all_data)} posts/comments from u/{username}")
+        print(f"Fetched and stored {len(all_data)} posts/comments from u/{username}")
         return all_data 
     except Exception as e:
         print(f"Error: {e}")
@@ -54,8 +54,8 @@ def analyze_and_update_sentiment(username):
             conn.commit()
             sentiments.append(sentiment_label)
 
-        # debugginggggg print(f"Updated sentiment for u/{username}")
-        #return sentiments
+        print(f"Updated sentiment for u/{username}")
+        return sentiments
     except Exception as e:
         print(f"Error: {e}")
         return []
