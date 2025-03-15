@@ -2,8 +2,8 @@ import praw
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from database import insert_data, connect
 
-CLIENT_ID = "kkToVl9TgRgfXcB6e_mOAA"
-CLEINT_SECRET = "zMIwVRhzPe32E336yGyBpUvVQmhCow"
+CLIENT_ID = "i wont tell you"
+CLEINT_SECRET = "top secret ;)))"
 USER_AGENT = "sentiment_analysis:v1.0 (by /u/eathumanspetcats)"
 
 reddit = praw.Reddit(
