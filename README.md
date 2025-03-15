@@ -7,4 +7,4 @@ This project utilizes Python and its many libaries, as well as Reddit API.
 ### Pie chart
 <img width="1266" alt="pie chart" src="https://github.com/user-attachments/assets/93efd0ec-a2be-41e9-9231-82a53665510f" />
 ### Word cloud
-<img width="1266" alt="word cloud" src="https://github.com/user-attachments/assets/b9fed556-27fd-451e-b446-999a684411b9" />
+![word cloud](https://github.com/user-attachments/assets/8e6b4d76-5e25-43be-9467-5e4be0e4e6ca)
