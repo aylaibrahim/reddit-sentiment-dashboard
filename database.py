@@ -3,7 +3,7 @@ import mysql.connector
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "ucandoit!",
+    "password": "password",
     "database": "reddit_sentiment"    
 }
 
