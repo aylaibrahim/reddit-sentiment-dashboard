@@ -5,4 +5,4 @@ This project utilizes Python and its many libaries, as well as Reddit API.
 
 ## An example with u/Here_Comes_The_King
 <img width="1266" alt="pie chart" src="https://github.com/user-attachments/assets/93efd0ec-a2be-41e9-9231-82a53665510f" />
-<img width="1266" alt="word cloud" src="https://github.com/user-attachments/assets/16607ff4-c5c6-4854-9107-7fd7b2fca404" />
+<img width="1266" alt="word cloud" src="https://github.com/user-attachments/assets/cb6f387d-20e6-4e6b-8d6d-f1515c76b2b7" />
